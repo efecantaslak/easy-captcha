@@ -1,2 +1,2 @@
-# ETCaptcha
+# Easy Captcha
 Easy Captcha
