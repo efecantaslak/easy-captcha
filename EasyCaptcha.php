@@ -1,15 +1,7 @@
 <?php
+namespace efecantaslak\EasyCaptcha;
 
-/**
- * Created by PhpStorm.
- * User: Efecan Taslak
- * Date: 15.10.2016
- * Time: 19:53
- */
-
-namespace Efot;
-
-class ETCaptcha {
+class EasyCaptcha {
 
     protected $canvas;
     protected $canvasWidth = 120;
